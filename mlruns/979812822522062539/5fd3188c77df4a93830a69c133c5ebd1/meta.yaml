@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/marcelodeazevedo/development/kobe_shot_prediction_tdsp_complete_v3/mlruns/979812822522062539/5fd3188c77df4a93830a69c133c5ebd1/artifacts
+end_time: 1743284644021
+entry_point_name: ''
+experiment_id: '979812822522062539'
+lifecycle_stage: active
+run_id: 5fd3188c77df4a93830a69c133c5ebd1
+run_name: PreparacaoDados
+run_uuid: 5fd3188c77df4a93830a69c133c5ebd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743284643952
+status: 3
+tags: []
+user_id: marcelodeazevedo

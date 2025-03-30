@@ -1,0 +1,15 @@
+name: kobe_env_trab
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - pandas
+      - scikit-learn==1.1.3
+      - pycaret==3.0.0
+      - mlflow
+      - streamlit
+      - plotly
+      - pyarrow
