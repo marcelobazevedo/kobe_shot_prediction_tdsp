@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/marcelodeazevedo/development/kobe_shot_prediction_tdsp_complete_v3/mlruns/0/6f58ed42462a4e17bab311b031534d73/artifacts
+deleted_time: 1743891638235
+end_time: 1743557689188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6f58ed42462a4e17bab311b031534d73
+run_name: Simulacao_Arremesso
+run_uuid: 6f58ed42462a4e17bab311b031534d73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743557689168
+status: 3
+tags: []
+user_id: marcelodeazevedo

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/marcelodeazevedo/development/kobe_shot_prediction_tdsp_complete_v3/mlruns/0/150e8bdb6ce7411c98b3e104dd479fda/artifacts
+deleted_time: 1743891638244
+end_time: 1743556504548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 150e8bdb6ce7411c98b3e104dd479fda
+run_name: Simulacao_Em_Massa
+run_uuid: 150e8bdb6ce7411c98b3e104dd479fda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743556504533
+status: 3
+tags: []
+user_id: marcelodeazevedo
